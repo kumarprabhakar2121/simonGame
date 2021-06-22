@@ -19,7 +19,9 @@ body {
   margin: auto;
 
 }
-
+.author{
+  color: #484b04;
+}
 .btn {
   margin: 25px;
   display: inline-block;
